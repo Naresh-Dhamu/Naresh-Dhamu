@@ -32,7 +32,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,postgres,redis,docker,aws,linux,git" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,nodejs,express,mongodb,postgres,redis,docker,aws,linux,git" />
 </p>
 
 ---
