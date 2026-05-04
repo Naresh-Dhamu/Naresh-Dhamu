@@ -1,15 +1,135 @@
 <h1 align="center">Hi 👋, I'm Naresh Dhamu</h1>
-<h3 align="center">I am a results-driven Full Stack Developer with strong command in frontend, backend & DevOps. Skilled in Next.js, React.js, TypeScript, Node.js, Express, Docker & Tailwind CSS. I build Android, iOS & TV apps using React Native. Backend systems with MongoDB, PostgreSQL, Redis, RabbitMQ & queue-based architectures. I automate CI/CD pipelines using GitHub Actions. Since 2024, I’ve built scalable, production-ready systems with modern architecture, caching, messaging & performance engineering.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/naresh-dhamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naresh-dhamu" height="30" width="40" /></a>
-<a href="https://fb.com/naresh-dhamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naresh-dhamu" height="30" width="40" /></a>
-<a href="https://instagram.com/naresh_dhamu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naresh_dhamu_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@naresh_dhamu_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@naresh_dhamu_15" height="30" width="40" /></a>
+<h3 align="center">Full Stack Engineer • Mobile Architect • System Design Specialist</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems;React+Native+Expert;Distributed+Systems+Enthusiast;Performance+Driven+Engineer+⚡" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+## 🧠 About Me
 
+💡 I design & build **high-performance, scalable applications** used in real-world production  
+🚀 Specialized in **Full Stack + Mobile Architecture (React Native)**  
+⚙️ Strong foundation in **System Design, Distributed Systems & Scalability**  
+🔥 Passionate about solving **complex engineering problems at scale**  
+📱 Delivered **Android, iOS & Smart TV apps** with production-level reliability  
+🔄 Experienced in **real-time systems, event-driven architecture & async processing**  
+🚀 Advocate of **automation, CI/CD pipelines & DevOps culture**
+
+---
+
+## 🏆 What Sets Me Apart
+
+✔️ I think in **systems, not just features**  
+✔️ I optimize for **scale, performance & maintainability**  
+✔️ I build with a **production-first mindset**  
+✔️ I focus on **clean architecture & long-term sustainability**  
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,postgres,redis,docker,aws,linux,git" />
+</p>
+
+---
+
+## 📱 Mobile Engineering
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react" height="55"/>
+</p>
+
+<p align="center">
+React Native • Android • iOS • Smart TV Apps
+</p>
+
+---
+
+## ⚙️ Architecture & Engineering
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Event_Driven-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis_Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions"/>
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naresh-dhamu&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naresh-dhamu&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=naresh-dhamu&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🧩 Engineering Focus
+
+<p align="center">
+
+⚡ Scalable Backend Systems  
+🔥 High Performance Frontends  
+🔄 Real-Time & Event-Driven Systems  
+📦 Clean Code & Maintainable Architecture  
+🧠 Advanced System Design Thinking  
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<div style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  margin: 0 auto;
+">
+
+  <a href="https://linkedin.com/in/naresh-dhamu">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+
+  <a href="https://instagram.com/naresh_dhamu_">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+
+  <a href="https://fb.com/naresh-dhamu">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" />
+  </a>
+
+  <a href="https://www.youtube.com/@naresh_dhamu_15">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40" />
+  </a>
+
+</div>
+
+---
+
+## 💬 Engineering Philosophy
+
+<p align="center">
+
+💡 *"Build for scale. Optimize for performance. Design for the future."*
+
+</p>
+
+---
